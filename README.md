@@ -28,7 +28,7 @@ Engajado no desenvolvimento Web Backend e se especializando em tecnologias como:
 </p>
 
 <p>
-Atuando no time de suporte, desenvolvimento e automação de sistemas na Atento <br/>
+Atuando no time de suporte, desenvolvimento e automação de sistemas na Atento. <br/>
 </p>
 
 <p align="left">
