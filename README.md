@@ -1,9 +1,8 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
-Capaz de desenvolver novas funcionalidades, solucionar problemas e atuar em sistemas legados.
+Capable of developing new features, solving problems, and working with legacy systems.
 
-Engajado no desenvolvimento Web Backend e se especializando em tecnologias como:
-
+Engaged in Web Backend development and the OpenSource culture, I continue to specialize in technologies such as
 <p align="left">
 <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
 
@@ -26,7 +25,7 @@ Engajado no desenvolvimento Web Backend e se especializando em tecnologias como:
 </p>
 
 <p>
-Atuando no time de desenvolvimento da Autodoc. <br/>
+Software developer backend at Autodoc. <br/>
 </p>
 
 <p align="left">
